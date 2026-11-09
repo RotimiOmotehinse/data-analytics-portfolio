@@ -31,7 +31,7 @@ The analysis addresses the following 13 business questions
 13. Are sales representatives performing differently?
     
 ## 5. Dataset Description
-The project uses four related datasets, each containing approximately 4,500 records:
+The project uses four related datasets comprising Sales, Products, Customers, and Date tables, designed to support comprehensive sales and business performance analysis.
 
 - **Sales Table:** Transactional and order-level information.
 - **Products Table:** Product details and category information.
@@ -71,11 +71,11 @@ Key activities included:
 ## 9. Analysis Performed
 The project covers five major areas of analysis:
 
-- Sales Performance Analysis
-- Profitability Analysis
+- Sales Performance & Geographical Analysis
+- Profitability & Discount Analysis
 - Customer Behaviour & Retention Analysis
 - Product & Category Performance Analysis
-- Discount & Order Cancellation Analysis
+- Shipping, Order Fulfilment & Sales Representative Analysis
 
 ## 10. Dashboard Development
 Developed three interactive Power BI dashboard pages:
@@ -86,6 +86,8 @@ Developed three interactive Power BI dashboard pages:
 - Sales by channel and region.
 - Revenue and performance comparisons.
   [View Sales Performance Dashboard](https://github.com/RotimiOmotehinse/data-analytics-portfolio/blob/main/Sales%20Performance%20Dashboard%201.png)
+
+  ![Sales Performance Dashboard](Sales%20Performance%20Dashboard%201.png)
 
 **2. Profitability & Discount Analysis Dashboard**
 - Gross profit and profit margin analysis.
