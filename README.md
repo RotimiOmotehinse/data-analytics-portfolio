@@ -97,12 +97,16 @@ Developed three interactive Power BI dashboard pages:
 - Average discount analysis.
   [View Profitability & Discount Analysis Dashboard](https://github.com/RotimiOmotehinse/data-analytics-portfolio/blob/main/Profitability%20%26%20Discount.png)
 
+  ![Profitability Dashboard](Profitability%20%26%20Discount.png)
+
 **3. Customer & Product Insights Dashboard**
 - Customer purchasing behaviour.
 - Repeat customer analysis.
 - Product and category performance.
 - Customer contribution and engagement.
   [View Customer & Product Insights Dashboard](https://github.com/RotimiOmotehinse/data-analytics-portfolio/blob/main/Customer%20and%20Product%20Insights%201.png)
+
+  ![Customer and Product Insights Dashboard](Customer%20and%20Product%20Insights%201.png)
 
 ## 11. Key Insights & Findings
 The following figures are visible in the profitability dashboard:
