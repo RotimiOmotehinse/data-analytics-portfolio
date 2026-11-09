@@ -85,7 +85,6 @@ Developed three interactive Power BI dashboard pages:
 - Monthly and yearly performance trends.
 - Sales by channel and region.
 - Revenue and performance comparisons.
-  [View Sales Performance Dashboard](https://github.com/RotimiOmotehinse/data-analytics-portfolio/blob/main/Sales%20Performance%20Dashboard%201.png)
 
   ![Sales Performance Dashboard](Sales%20Performance%20Dashboard%201.png)
 
@@ -95,7 +94,6 @@ Developed three interactive Power BI dashboard pages:
 - Sales and profit by discount bands.
 - Order cancellation rate.
 - Average discount analysis.
-  [View Profitability & Discount Analysis Dashboard](https://github.com/RotimiOmotehinse/data-analytics-portfolio/blob/main/Profitability%20%26%20Discount.png)
 
   ![Profitability Dashboard](Profitability%20%26%20Discount.png)
 
@@ -104,22 +102,28 @@ Developed three interactive Power BI dashboard pages:
 - Repeat customer analysis.
 - Product and category performance.
 - Customer contribution and engagement.
-  [View Customer & Product Insights Dashboard](https://github.com/RotimiOmotehinse/data-analytics-portfolio/blob/main/Customer%20and%20Product%20Insights%201.png)
-
+  
   ![Customer and Product Insights Dashboard](Customer%20and%20Product%20Insights%201.png)
+  
 
 ## 11. Key Insights & Findings
-The following figures are visible in the profitability dashboard:
+
+### A. Dashboard Metrics
+
+The following key performance indicators (KPIs) were identified from the Profitability & Discount Analysis Dashboard:
 
 - **Gross Profit:** 2.76M.
 - **Profit Margin:** 77.59%.
 - **Total Orders:** Approximately 4,490.
 - **Order Cancellation Rate:** 6.23%.
 - **Average Discount:** 9.79%.
-- **Top Five Products by Profit:** LED Desk Lamp, Rice 5kg, Ballpoint Pens, Bluetooth Speaker, and Snack Box.
-- **Bottom Five Products by Profit:** Tea Box, Desk Organizer, Laundry Basket, Denim Jeans, and Blender.
 
-The dashboard also reveals differences in sales and profit contributions across product categories, sales channels, and discount bands.
+### B. Analytical Findings
+
+- **Product Profitability:** LED Desk Lamp, Rice 5kg, Ballpoint Pens, Bluetooth Speaker, and Snack Box emerged as the top five products by profit, while Tea Box, Desk Organizer, Laundry Basket, Denim Jeans, and Blender ranked among the bottom five.
+- **Product Performance:** The differences in product profitability highlight the importance of evaluating individual product contributions when making product portfolio and inventory decisions.
+- **Order Cancellations:** The 6.23% cancellation rate presents an opportunity to investigate cancellation patterns and identify potential operational issues.
+- **Discount Performance:** The average discount of 9.79% provides a basis for evaluating how promotional discounts relate to revenue and profitability.
 
 ## 12. Business Recommendations & Potential Impact
 Based on the analysis, the following recommendations can support management decisions:
@@ -129,11 +133,14 @@ Based on the analysis, the following recommendations can support management deci
 - **Customer Retention:** Strengthen loyalty and retention initiatives to encourage repeat purchases.
 - **Sales Channel Optimization:** Allocate resources towards channels delivering stronger sales and profit contributions.
 - **Order Management:** Investigate cancellation patterns and identify opportunities to reduce cancelled orders.
+- **Shipping & Order Fulfilment:** Investigate shipping delays and evaluate opportunities to improve delivery efficiency and customer satisfaction.
+- **Sales Representative Performance:** Identify performance differences among representatives and develop appropriate strategies to improve sales productivity.
 
 **Potential Business Impact:**
 Improved profitability, better inventory and product decisions, stronger customer retention, more effective promotional strategies, and increased operational efficiency.
 
 ## 13. Project Deliverables
+
 - Four datasets prepared for analysis.
 - Excel data inspection, cleaning, and validation work.
 - Power BI data model and DAX measures.
@@ -161,6 +168,7 @@ This project demonstrates my ability to transform raw business data into meaning
 
 **Tools:** Microsoft Excel | Power BI
 
-**LinkedIn:** [https://www.linkedin.com/in/rotimi-omotehinse-642201133/]
+**LinkedIn:** **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rotimi-omotehinse-642201133/)
 
-**GitHub:** [[Insert GitHub Profile URL](https://github.com/RotimiOmotehinse/data-analytics-portfolio/edit/main/README.md)]
+**GitHub:** [View my GitHub Profile](https://github.com/RotimiOmotehinse) https://www.linkedin.com/in/rotimi-omotehinse-642201133/
+
