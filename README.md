@@ -170,5 +170,5 @@ This project demonstrates my ability to transform raw business data into meaning
 
 **LinkedIn:** **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rotimi-omotehinse-642201133/)
 
-**GitHub:** [View my GitHub Profile](https://github.com/RotimiOmotehinse) https://www.linkedin.com/in/rotimi-omotehinse-642201133/
+**GitHub:** [View my GitHub Profile](https://github.com/RotimiOmotehinse)
 
