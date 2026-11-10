@@ -15,7 +15,7 @@ Nova Sales LTD operates across multiple product categories and sales channels. M
 - Assess sales representative performance and provide actionable recommendations to improve business outcomes.
   
 ## 4. Business Questions
-The analysis addresses the following 13 business questions
+The analysis addresses the following 13 business questions:
 1. How is revenue changing over time?
 2. Which sales channels generate the most revenue and gross profit?
 3. Which regions and countries perform best?
@@ -168,7 +168,7 @@ This project demonstrates my ability to transform raw business data into meaning
 
 **Tools:** Microsoft Excel | Power BI
 
-**LinkedIn:** **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rotimi-omotehinse-642201133/)
+**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rotimi-omotehinse-642201133/)
 
 **GitHub:** [View my GitHub Profile](https://github.com/RotimiOmotehinse)
 
